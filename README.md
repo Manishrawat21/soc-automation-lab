@@ -45,8 +45,8 @@ Detection → Enrichment → Notification → Validation
 
 This repository accompanies the following write-ups:
 
-- *A Senior Challenged Me to Build an Automated SOC Demo. Here’s What I Built.*
-- *Wazuh + N8N Integration Almost Beat Me — But Giving Up Wasn’t an Option*
+- *A Senior Challenged Me to Build an Automated SOC Demo. Here’s What I Built.*<https://medium.com/system-weakness/a-senior-challenged-me-to-build-an-automated-soc-demo-heres-what-i-built-32c9995857e2>
+- *Wazuh + N8N Integration Almost Beat Me — But Giving Up Wasn’t an Option*<https://medium.com/system-weakness/wazuh-n8n-integration-almost-beat-me-but-giving-up-wasnt-an-option-1af20f4340a0>
 
 (Links will be added)
 
