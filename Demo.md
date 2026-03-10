@@ -46,7 +46,7 @@ Zero manual steps between "attack happened" and "endpoint forensics running."
 
 > **Full walkthrough — tools overview + live pipeline demo: 8 minutes**
 
-[![SOC Automation Lab Demo](https://img.shields.io/badge/▶_Watch_Demo-SOC_Automation_Pipeline-brightgreen?style=for-the-badge)](https://drive.google.com/file/d/11atmXj1-RDoVOncbr2uJ0n9y0i0wz9gP/view?usp=drivesdk)
+[![SOC Automation Lab Demo](https://img.shields.io/badge/▶_Watch_Demo-SOC_Automation_Pipeline-brightgreen?style=for-the-badge)](https://youtu.be/FNTELJc-1KU)
 
 **What the video covers:**
 
